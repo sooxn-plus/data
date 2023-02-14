@@ -97,6 +97,7 @@ https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视 8M
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
+https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="卫视",上海都市 8M
 https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="卫视",上海纪实 8M
@@ -108,7 +109,7 @@ https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 
 
 
-https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
